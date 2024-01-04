@@ -1,8 +1,8 @@
 # Hello, World! 👋
 
-I'm Lorenzo Yang, a passionate computer science student who loves programming and anime.
+I'm Lorenzo Yang, an enthusiastic computer science student with a deep passion for programming and anime.
 
 **About me**
-- 🎓 Studying Computer Science at University of Florence
-- 💻 A fan of open source and collaborative development
-- 📺 An anime enthusiast who enjoys watching and discussing anime
+- 🎓 Currently pursuing a degree in Computer Science at the University of Florence.
+- 💻 Advocate for open source and passionate about collaborative development.
+- 📺 Anime enthusiast who enjoys both watching and discussing anime series.
