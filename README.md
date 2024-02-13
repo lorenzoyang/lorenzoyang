@@ -8,4 +8,4 @@ I'm Lorenzo Yang, an enthusiastic computer science student with a deep passion f
 - 📺 Anime enthusiast who enjoys both watching and discussing anime series.
 
 [![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoyang&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lorenzoyang)
-[![Yang's Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoyang&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&langs_count=8)](https://github.com/lorenzoyang)
+[![Yang's Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoyang&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=transparent&langs_count=8)](https://github.com/lorenzoyang)
