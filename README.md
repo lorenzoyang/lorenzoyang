@@ -1,11 +1,24 @@
 # Hello, World! 👋
 
-I'm Lorenzo Yang, an enthusiastic computer science student with a deep passion for programming and anime.
+I'm Lorenzo Yang, a Computer Science student at the University of Florence.
 
-**About me**
-- 🎓 Currently pursuing a degree in Computer Science at the University of Florence.
-- 💻 Advocate for open source and passionate about collaborative development.
-- 📺 Anime enthusiast who enjoys both watching and discussing anime series.
+I'm learning programming step by step, trying to build a stronger foundation and become better through practice.
 
-[![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoyang&show_icons=true&theme=transparent&hide_border=true)](https://github.com/lorenzoyang)
-[![Yang's Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoyang&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&theme=transparent&langs_count=8)](https://github.com/lorenzoyang)
+## About me
+
+* I like programming, running, reading, and anime.
+* I run every week, mostly middle and long distance.
+* I'm trying to keep a regular reading habit.
+* I'm slowly getting back into anime.
+
+## Current focus
+
+Right now, I'm focused on learning consistently and writing more code.
+
+I don't have everything figured out yet, but I'm trying to keep moving: study, practice, build small things, and improve a little over time.
+
+## GitHub
+
+This profile is mainly a place for my learning, small projects, notes, and experiments.
+
+Some repositories may be simple or unfinished, but they are part of the way I learn.
