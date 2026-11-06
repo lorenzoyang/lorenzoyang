@@ -23,7 +23,6 @@ jobs:
         run: python3 .github/scripts/update_languages.py
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
 
       - name: Commit changes
         run: |

@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """Update the language breakdown in README.md.
 
-Sums the bytes per language that GitHub reports for each repository and
-writes a small text chart between the README markers.
+Sums the bytes per language that GitHub reports for each public repository
+and writes a small text chart between the README markers.
 
-Environment variables (both optional):
-  LANGS_TOKEN   personal access token; when set, private repositories are included.
-  GITHUB_TOKEN  token used for public repositories (higher API rate limit).
+Optional environment variable:
+  GITHUB_TOKEN  token for the GitHub API (higher rate limit).
 """
 
 import json
@@ -45,13 +44,8 @@ def get(url, token):
 
 
 def list_repos():
-    private_token = os.environ.get("LANGS_TOKEN", "").strip()
-    if private_token:
-        token = private_token
-        base = f"{API}/user/repos?affiliation=owner&visibility=all&per_page=100"
-    else:
-        token = os.environ.get("GITHUB_TOKEN", "").strip()
-        base = f"{API}/users/{OWNER}/repos?type=owner&per_page=100"
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    base = f"{API}/users/{OWNER}/repos?type=owner&per_page=100"
 
     repos, page = [], 1
     while True:
