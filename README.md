@@ -1,8 +1,16 @@
-# Hello, World! 👋
+# Hi, I'm Lorenzo 👋
 
-I'm Lorenzo Yang, a Computer Science student at the University of Florence.
+I'm a Computer Science student at the University of Florence.
 
-I'm learning programming step by step, trying to build a stronger foundation and become better through practice.
+I like programming, and I try to get a little better at it every day: reading, building small things, making mistakes and fixing them.
+
+Some of my repositories are simple or unfinished, but they're part of how I learn.
+
+## What I like to work on
+
+* Backend and full-stack development, mostly with C#, .NET, ASP.NET Core and TypeScript.
+* Working towards building products that are genuinely useful to the people who use them.
+* Using AI as a lever: it helps me learn faster, try more ideas and build better things.
 
 ## About me
 
@@ -11,14 +19,20 @@ I'm learning programming step by step, trying to build a stronger foundation and
 * I'm trying to keep a regular reading habit.
 * I'm slowly getting back into anime.
 
-## Current focus
+## Languages
 
-Right now, I'm focused on learning consistently and writing more code.
+<!-- languages:start -->
+```text
+Java        █████░░░░░░░░░░░░░░░   25.3%
+C           ████░░░░░░░░░░░░░░░░   18.6%
+C#          ████░░░░░░░░░░░░░░░░   18.1%
+TypeScript  ███░░░░░░░░░░░░░░░░░   13.6%
+Astro       █░░░░░░░░░░░░░░░░░░░    7.1%
+Python      █░░░░░░░░░░░░░░░░░░░    5.6%
+JavaScript  █░░░░░░░░░░░░░░░░░░░    4.0%
+MATLAB      █░░░░░░░░░░░░░░░░░░░    3.7%
+Other       █░░░░░░░░░░░░░░░░░░░    4.0%
+```
+<!-- languages:end -->
 
-I don't have everything figured out yet, but I'm trying to keep moving: study, practice, build small things, and improve a little over time.
-
-## GitHub
-
-This profile is mainly a place for my learning, small projects, notes, and experiments.
-
-Some repositories may be simple or unfinished, but they are part of the way I learn.
+<sub>Share of code in my public repositories, by size. Updated weekly.</sub>
